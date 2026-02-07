@@ -4,7 +4,7 @@
 Proyecto de análisis de negocio desarrollado en Power BI, enfocado en el análisis de suscripciones, ingresos, clientes y canales de captación. El objetivo es brindar una visión clara del rendimiento del negocio mediante dashboards interactivos orientados a la toma de decisiones.
 
 🔗 Dashboard publicado en Power BI Service:
-https://app.powerbi.com/...
+https://app.powerbi.com/view?r=eyJrIjoiZjRmMzI3MWYtMDU5YS00YjRiLWIxMmItMGExNTZjNjYyYThjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9
 
 ##  Herramientas utilizadas
 - Power BI  
